@@ -3,7 +3,7 @@
 
 ## Installation
 
-Clone this repository, and run:
+Clone this repository, and run: STUFF
 ```sh
 $ npm install
 ```
@@ -13,7 +13,7 @@ $ npm install
 ```js
 $ npm run bot
 ```
-## License
+## License    /////////////TEST TEST
 
 Apache-2.0 © [Hunter Eason]()
 
